@@ -1,3 +1,3 @@
 ## hello tep
 
-Hello GitHub
+Hello GitHub!
